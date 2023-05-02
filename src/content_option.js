@@ -1,23 +1,23 @@
 const logotext = "Benjamin";
 const meta = {
     title: "Benjamin Smith",
-    description: "I’m Benjamin Smith data scientist _ Full stack devloper,currently working in Berlin",
+    description: "I am Benjamin Smith. I am a sophomore studying at Northwestern",
 };
 
 const introdata = {
     title: "I’m Benjamin Smith",
     animated: {
         first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        second: "I love to learn",
+        third: "I love to create",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "A Bit about Myself",
+    aboutme: "My love of code started in early high school. That first AP class grabbed me and didn't let me go. Ever since, I haven't been able to get enough.",
 };
 const worktimeline = [{
         jobtitle: "Designer of week",
@@ -136,9 +136,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "benjaminsmith2025.1@u.northwestern.edu",
+    YOUR_FONE: "(608)-556-5152",
+    description: "I would love the opportunity to get into contact with you! Feel free to email, call, or just shoot a text. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -147,9 +147,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
+    github: "https://github.com/benbind",
     facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    linkedin: "https://www.linkedin.com/in/benjamin-smith-46b184254/",
     twitter: "https://twitter.com",
 };
 export {
