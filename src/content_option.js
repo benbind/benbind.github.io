@@ -69,7 +69,7 @@ const skills = [{
 const dataportfolio = [{
     
         img: "https://fastly.picsum.photos/id/1/5000/3333.jpg?hmac=Asv2DU3rA_5D1xSe22xZK47WEAN0wjWeFOhzd13ujW4",
-        description: "DFS React Project",
+        description: "DFS React Project from PHP",
         link: "https://www.rotowire.com/daily/cfb/optimizer.php",
         
     },
